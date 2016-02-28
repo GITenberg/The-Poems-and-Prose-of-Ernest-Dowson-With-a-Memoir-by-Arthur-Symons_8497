@@ -1,0 +1,33 @@
+_repo: The-Poems-and-Prose-of-Ernest-Dowson-With-a-Memoir-by-Arthur-Symons_8497
+contributor:
+  contributor:
+    agent_name: Symons, Arthur
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '347'
+    url: http://www.gutenberg.org/2009/agents/347
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Symons
+creator:
+  author:
+    agent_name: Dowson, Ernest Christopher
+    birthdate: 1867
+    deathdate: 1900
+    gutenberg_agent_id: '2775'
+    url: http://www.gutenberg.org/2009/agents/2775
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Dowson
+description: ''
+gutenberg_bookshelf: One Act Plays
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8497'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+- !lcsh 'Authors, English'
+title: The Poems and Prose of Ernest Dowson, With a Memoir by Arthur Symons
+url: http://www.gutenberg.org/ebooks/8497
