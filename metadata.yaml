@@ -1,4 +1,5 @@
 _repo: The-Poems-and-Prose-of-Ernest-Dowson-With-a-Memoir-by-Arthur-Symons_8497
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Symons, Arthur
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '347'
     url: http://www.gutenberg.org/2009/agents/347
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Symons
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dowson, Ernest Christopher
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2775
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Dowson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8497#The-Poems-and-Prose-of-Ernest-Dowson-With-a-Memoir-by-Arthur-Symons
 gutenberg_bookshelf: One Act Plays
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
